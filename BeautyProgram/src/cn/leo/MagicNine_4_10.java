@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Description: ÌâÄ¿£ºÉñÆæµÄ9Î»Êı <br>
- * 1£¬¸ÃÊı°üº¬1-9¾Å¸öÊı×Ö 2£¬abcdefghiÆäÖĞaÄÜ±»1Õû³ı£¬abÄÜ±»2Õû³ı£¬abceÄÜ±»3Õû³ı£¬ÒÀ´ÎÀàÍÆabcdefghiÄÜ±»9Õû³ı
+ * Description: é¢˜ç›®ï¼šç¥å¥‡çš„9ä½æ•° <br>
+ * 1ï¼Œè¯¥æ•°åŒ…å«1-9ä¹ä¸ªæ•°å­— 2ï¼Œabcdefghiå…¶ä¸­aèƒ½è¢«1æ•´é™¤ï¼Œabèƒ½è¢«2æ•´é™¤ï¼Œabceèƒ½è¢«3æ•´é™¤ï¼Œä¾æ¬¡ç±»æ¨abcdefghièƒ½è¢«9æ•´é™¤
  * 
  * @author li.an1 <br>
  * @version 8.0 <br>
@@ -21,7 +21,7 @@ public class MagicNine_4_10 {
     }
 
     /**
-     * Description: Ã¶¾Ù·¨ <br>
+     * Description: Ã¶ï¿½Ù·ï¿½ <br>
      * 
      * @author li.an1 <br>
      * @taskId <br>
@@ -96,7 +96,7 @@ public class MagicNine_4_10 {
     
     
     /**
-     * Description: ·ÖÎö·¨ <br> 
+     * Description: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <br> 
      * array[1] : {1,3,7,9} 
      * array[2] : {2,4,6,8}
      * array[3] : {1,3,7,9}
