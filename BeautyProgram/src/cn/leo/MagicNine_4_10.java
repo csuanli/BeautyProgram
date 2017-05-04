@@ -107,7 +107,7 @@ public class MagicNine_4_10 {
      * array[8] : {2,4,6,8}
      * array[9] : {1,3,7,9}
      * @author li.an1 <br>
-     * @taskId <br> <br>
+     * @taskId <br>
      */
     private static void method2() {
         
